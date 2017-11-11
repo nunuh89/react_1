@@ -1,0 +1,8 @@
+h1{
+  background: green;
+}
+
+h1:hover{
+  transition: 5s;
+  box-shadow: 10px 10px 5px blue;
+}
